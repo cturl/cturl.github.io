@@ -23,3 +23,7 @@ Redirect It! is a free service. There is no guaranteed warranty of any kind, and
 We do not collect any personal information from our users, except their email. We use emails to notify users about their redirects, news, and promotions. We also store emails to identify and track abuse of our service. However, Redirect It! never shares collected information to any third parties.
 
 Redirects created using Redirect It! are also not private and can be viewed by anyone using GitHub. Create redirects at your own risk.
+
+## Questions?
+
+Contact us at teamredirectit@gmail.com for any questions about Redirect It!
