@@ -12,7 +12,7 @@ into something small!
 
 `https://cturl.github.io/1`
 
-Use Redirect It! to...
+Use CompactURL to...
 
 * Decrease the amount of characters in a URL
 * Make URLs easier to memorize and pronounce
