@@ -1,8 +1,8 @@
-# Redirect It!
+# CompactURL
 
 The free, easy service for redirecting and compacting URLs.
 
-## Uses for Redirect It!
+## Uses for CompactURL
 
 Turn a long URL:
 
@@ -10,7 +10,7 @@ Turn a long URL:
 
 into something small!
 
-`https://redirect-it.github.io/1`
+`https://cturl.github.io/1`
 
 Use Redirect It! to...
 
@@ -20,4 +20,4 @@ Use Redirect It! to...
 
 ## Request a Redirect
 
-What are you waiting for? [Request a redirect now!](https://redirect-it.github.io/request/)
+What are you waiting for? [Request a redirect now!](https://cturl.github.io/request/)
