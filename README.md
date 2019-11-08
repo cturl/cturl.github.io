@@ -18,6 +18,8 @@ Use CompactURL to...
 * Make URLs easier to memorize and pronounce
 * Disguise a link by redirecting it
 
+Customize your link with or without a link preview! (e.g. https://cturl.github.io/2)
+
 ## Request a Redirect
 
 What are you waiting for? [Request a redirect now!](https://cturl.github.io/request/)
