@@ -1,4 +1,4 @@
-# Redirect Preview
+# Link Preview
 
 The link you followed is shortened by CompactURL.
 **Click the link** if you would like to proceed to the destination shown:
