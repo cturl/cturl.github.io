@@ -10,7 +10,7 @@ Turn a long URL:
 
 into something small!
 
-`https://cturl.github.io/1`
+`cturl.github.io/1`
 
 Use CompactURL to...
 
@@ -18,7 +18,7 @@ Use CompactURL to...
 * Make URLs easier to memorize and pronounce
 * Disguise a link by redirecting it
 
-Customize your link with or without a link preview! (e.g. https://cturl.github.io/2)
+Customize your link with or without a link preview! (e.g. [cturl.github.io/2](https://cturl.github.io/2)
 
 ## Request a Redirect
 
