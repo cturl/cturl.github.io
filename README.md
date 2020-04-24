@@ -23,3 +23,5 @@ Customize your link with or without a link preview! (e.g. [cturl.github.io/2](ht
 ## Request a Redirect
 
 What are you waiting for? [Request a redirect now!](https://cturl.github.io/request/)
+
+<link rel="icon" href="https://cdn.discordapp.com/attachments/648214140506079234/703092422615367750/cturl.png" type="image/png">
