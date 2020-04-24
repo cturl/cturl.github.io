@@ -1,6 +1,8 @@
 # CompactURL
 
-The free, easy service for redirecting and compacting URLs.
+Welcome to CompactURL, the free, easy service for redirecting and compacting URLs.
+
+**[Request a redirect by clicking here!](https://cturl.github.io/request/)**
 
 ## Uses for CompactURL
 
@@ -20,8 +22,10 @@ Use CompactURL to...
 
 Customize your link with or without a link preview! (e.g. [cturl.github.io/2](https://cturl.github.io/2))
 
-## Request a Redirect
+## Why choose CompactURL?
 
-What are you waiting for? [Request a redirect now!](https://cturl.github.io/request/)
+- [X] Open source
+- [X] Forever free of charge
+- [X] We never sell personal info
+- [X] Fast service
 
-<link rel="icon" href="https://cdn.discordapp.com/attachments/648214140506079234/703092422615367750/cturl.png" type="image/png">
