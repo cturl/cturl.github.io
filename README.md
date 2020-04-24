@@ -2,7 +2,8 @@
 
 Welcome to CompactURL, the free, easy service for redirecting and compacting URLs.
 
-**[Request a redirect by clicking here!](https://cturl.github.io/request/)**
+**[REQUEST a redirect by clicking here!](https://cturl.github.io/request/)**<br/>
+<sup>alternatively, if you have a GitHub account, you can [open an issue instead](https://github.com/cturl/cturl.github.io/issues/new?assignees=TenType&labels=request&template=redirect-request.md&title=Redirect+Request)</sup>
 
 ## Uses for CompactURL
 
