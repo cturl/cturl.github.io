@@ -6,7 +6,7 @@ This page contains our Privacy Policy and Terms & Conditions. By using our servi
 
 ### Use of our Redirects
 
-CompactURL may not be used to redirect to spam, malware, illegal activity, has/promoting NSFW content, material that infringes copyright, and other content we may consider forbidden.
+CompactURL may not be used to redirect to OR promote spam, malware, illegal activity, NSFW content, material that infringes copyright, and other content we may consider forbidden.
 
 ### Managing Redirects
 
