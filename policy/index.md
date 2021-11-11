@@ -16,7 +16,7 @@ We also reserve the right to change/delete redirects if they disobey the Terms &
 
 ### Warranty & Liabilty
 
-CompactURL is a free service. There is no guaranteed warranty of any kind, and we are not liable for any problems that occur during your use of this service. In other words, we do not owe anything to you, at anytime.
+CompactURL is a free service. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance. In other words, we do not owe anything to you, at anytime.
 
 ## Privacy Policy
 
